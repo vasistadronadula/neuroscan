@@ -1,0 +1,12 @@
+# Python environments and generated files
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Local research data is not part of this public repository.
+dataset/
+
+# Local editor and operating-system files
+.DS_Store
+Thumbs.db
