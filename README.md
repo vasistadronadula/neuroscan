@@ -2,6 +2,12 @@
 
 A compact Streamlit research demo for exploring brain MRI image classification and tumor-region segmentation.
 
+**[Open the live demo](https://neurocan.streamlit.app/)**
+
+## Live preview
+
+[![NeuroScan AI live app preview](docs/live-demo.png)](https://neurocan.streamlit.app/)
+
 > **Research and education only.** NeuroScan AI is not a medical device. Its models and image-processing heuristics have not been independently clinically validated or calibrated. Outputs are experimental model results, not diagnoses or medical advice. Do not use this project to make, delay, or rule out medical decisions; consult a qualified medical professional.
 
 ## What it does
